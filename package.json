@@ -1,0 +1,27 @@
+{
+  "name": "codewars-challenges-solved",
+  "version": "1.0.0",
+  "description": "CodeWars algorithmic challenges solved",
+  "homepage": "https://github.com/samson08sis/CodewarsChallengesSolved#readme",
+  "bugs": {
+    "url": "https://github.com/samson08sis/CodewarsChallengesSolved/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samson08sis/CodewarsChallengesSolved.git"
+  },
+  "license": "MIT",
+  "author": "Samson S. Wolde",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^5.2.1",
+    "mocha": "^11.7.1"
+  }
+}
