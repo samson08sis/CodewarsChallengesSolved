@@ -12,6 +12,7 @@ A collection of my CodeWars challenge solutions, organized by problem.
 
 **Problem**: Find the top 3 most frequent words in a string (case-insensitive).  
 **Tags**: `Strings`, `Algorithms`, `Regular Expressions`
+**Rank**: `4 kyu`
 
 ### 🧩 Challenge
 
