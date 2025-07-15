@@ -10,9 +10,9 @@ A collection of my CodeWars challenge solutions, organized by problem.
 
 ## 🚀 Top 3 Most Occurring Words
 
-**Problem**: Find the top 3 most frequent words in a string (case-insensitive).  
-**Tags**: `Strings`, `Algorithms`, `Regular Expressions`
-**Rank**: `4 kyu`
+**❔ Problem**: Find the top 3 most frequent words in a string (case-insensitive).  
+**🏷️ Tags**: `Strings`, `Algorithms`, `Regular Expressions`.
+**💹 Rank**: `4 kyu`.
 
 ### 🧩 Challenge
 
