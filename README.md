@@ -46,7 +46,28 @@ topThreeWords("Hello hello world world HELLO world, World");
 // Output: ["world", "hello"]
 ```
 
+## 🚀 Jaden Case Strings
+
+**Problem**: [Convert strings to Jaden Case](https://www.codewars.com/kata/5390bac347d09b7da40006f6) (capitalize first letter of each word).  
+**Tags**: `Strings` `Prototypes` `Algorithms`
+**Improvisations**: Added `String.toPerfectJadenCase()` which converts any string to perfect Jade Case.
+
+### 🧩 Challenge
+
+| File                                                     | Purpose       |
+| -------------------------------------------------------- | ------------- |
+| [jaden_case_string.js](/Javascript/jaden_case_string.js) | Solution code |
+| [jaden_case_strings.md](/docs/jaden_case_strings.md)     | Explanation   |
+
+### 📝 Example
+
+```javascript
+const str = "how can mirrors be real if our eyes aren't real";
+console.log(str.toJadenCase());
+// Output: "How Can Mirrors Be Real If Our Eyes Aren't Real"
+
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
 MIT © [Samson S. Wolde](https://github.com/samson08sis/)
+```
